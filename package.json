@@ -1,0 +1,21 @@
+{
+  "name": "fortune_cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilwalunj10/fortunecloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sahilwalunj10/fortunecloud/issues"
+  },
+  "homepage": "https://github.com/sahilwalunj10/fortunecloud#readme"
+}
